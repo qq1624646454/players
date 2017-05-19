@@ -1,0 +1,11 @@
+
+SMPlayer is implemented by C++.
+
+SMPlayer is a free media player for Windows and Linux with built-in codecs, which can also play Youtube videos, search and download subtitles, and includes other features like a thumbnail generator and audio and video filters. 
+
+
+install steps:
+1.smplayer-17.5.0-win32.exe
+2.smtube-17.5.0-win32.exe
+
+

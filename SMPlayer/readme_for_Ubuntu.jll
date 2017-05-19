@@ -1,0 +1,23 @@
+
+
+
+----------------------------------------------------------------
+To install SMPlayer, just run these commands in a terminal:
+  sudo add-apt-repository ppa:rvm/smplayer 
+  sudo apt-get update 
+  sudo apt-get install smplayer smplayer-themes smplayer-skins 
+(Packages built with Qt 4)
+
+Reference to http://www.smplayer.info/en/downloads
+
+
+
+----------------------------------------------------------------
+To install SM_youtube, run these commands in a terminal:
+  sudo add-apt-repository ppa:rvm/smplayer
+  sudo apt-get update
+  sudo apt-get install smtube
+
+Reference to http://www.smtube.org/
+
+
